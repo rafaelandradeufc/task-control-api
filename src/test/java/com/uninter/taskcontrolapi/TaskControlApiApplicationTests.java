@@ -1,4 +1,4 @@
-package com.uninter.task_control_api;
+package com.uninter.taskcontrolapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
